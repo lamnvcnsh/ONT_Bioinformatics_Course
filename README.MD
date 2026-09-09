@@ -38,7 +38,7 @@ Mỗi buổi học dự kiến khoảng **2 tiếng**, gồm phần lý thuyết
 
 ---
 
-## [ ] Buổi 1 — Bioinformatics foundation và file formats
+## [x] Buổi 1 — Bioinformatics foundation và file formats
 
 **Thời lượng:** ~2 giờ
 
