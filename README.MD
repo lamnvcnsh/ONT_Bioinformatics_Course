@@ -30,7 +30,7 @@ Mỗi buổi học dự kiến khoảng **2 tiếng**, gồm phần lý thuyết
 ## Tiến độ khóa học
 
 - [x] **Buổi 1 — Bioinformatics foundation và file formats**  [[Slide](lectures/01/Lecture01.pdf)]
-- [ ] **Buổi 2 — ONT sequencing và basecalling**              [[Slide](lectures/01/Lecture02.pdf)]
+- [ ] **Buổi 2 — ONT sequencing và basecalling**              [[Slide](lectures/02/Lecture02.pdf)]
 - [ ] **Buổi 3 — ONT read quality control**
 - [ ] **Buổi 4 — Alignment, BAM QC và IGV**
 - [ ] **Buổi 5 — Variant calling**
