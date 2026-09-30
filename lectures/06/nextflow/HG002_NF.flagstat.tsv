@@ -1,0 +1,5 @@
+ref	sample_name	total	primary	secondary	supplementary	unmapped	qcfail	duplicate	duplex	duplex_forming
+chr6	HG002_NF	1689	1503	12	174	0	0	0	0	0
+chr20	HG002_NF	1935	1679	52	204	0	0	0	0	0
+chrM	HG002_NF	871	541	0	330	0	0	0	0	0
+*	HG002_NF	15	0	0	0	15	0	0	0	0
